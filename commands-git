@@ -1,0 +1,4 @@
+git clone https://github.com/ahamadaomar/git-begins.git
+git add  .
+git commit -m "premier commit"
+git push
